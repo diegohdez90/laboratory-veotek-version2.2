@@ -1,0 +1,61 @@
+body{
+	background-color: rgb(0,172,200);
+}
+
+.header, .alta, .menu, .footer{
+	background-color: white;
+	margin: 10px 0;
+	border-radius: 25px;
+}
+
+.header{
+	border-style: solid;
+	border-color: rgb(253,130,4);
+	border-width: 6px;
+}
+
+.alta{
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(255,255,255) rgb(253,130,4) rgb(253,130,4);
+	border-width: 6px;
+}
+
+
+.menu{
+	padding: 20px;
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(253,130,4) rgb(253,130,4) rgb(255,255,255);
+	border-width: 6px;
+}
+
+.alta, .menu{
+	height: 550px;
+}
+
+.menu li{
+	padding: 8px;
+}
+
+.form-control{
+	color: rgb(253,130,4);
+	font-weight: 600;
+}
+
+img{
+	width: 50%;
+	display:block;
+    margin:auto;
+}
+
+#submit{
+    background-color: rgb(253,130,4);
+    font-weight: 600;
+    width: 250px;
+    border-radius: 25px;
+    height: 45px;
+}
+
+.error{
+	border-radius: 25px;
+	border-color: rgb(253,130,4);
+}

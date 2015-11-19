@@ -1,0 +1,13 @@
+body{
+	background-color: rgb(0,172,200);
+}
+.error{
+	background-color: white;
+	color: rgb(0,172,200);
+}
+
+.error img{
+	width: 50%;
+	display:block;
+    margin:auto;
+}

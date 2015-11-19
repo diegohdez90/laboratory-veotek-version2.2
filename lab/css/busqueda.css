@@ -1,0 +1,79 @@
+body{
+	background-color: rgb(0,172,200);
+}
+
+.header, .busqueda, .busqueda-folio, .busqueda-ref, .busqueda-tecnico, .menu{
+	background-color: white;
+	margin: 10px 0;
+	padding: 20px;
+	border-radius: 25px;	
+}
+
+.header, .footer{
+	border-style: solid;
+	border-color: rgb(253,130,4);
+	border-width: 6px;
+}
+
+.busqueda{
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(255,255,255) rgb(253,130,4) rgb(253,130,4);
+	border-width: 6px;
+}
+
+
+.menu{
+	padding: 20px;
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(253,130,4) rgb(253,130,4) rgb(255,255,255);
+	border-width: 6px;
+}
+
+.busqueda, .menu{
+	height: 520px;
+}
+
+.busqueda-folio{
+	height: 520px;
+}
+
+.busqueda-ref{
+	height: 520px;
+}
+
+.glyphicon-print{
+	cursor: pointer;
+}
+
+.busqueda-tecnica{
+	height: 2550px;
+}
+
+img{
+	width: 50%;
+	display:block;
+    margin:auto;
+}
+
+#submit{
+    background-color: rgb(253,130,4);
+    font-weight: 600;
+    width: 120px;
+    border-radius: 25px;
+    height: 45px;
+}
+
+.form-control{
+	width: 12%;
+	color: rgb(253,130,4);
+	font-weight: 600;
+	display: inline;
+}
+
+.tech{
+	width: 20%;
+}
+
+table{
+	font-size: 13px;
+}

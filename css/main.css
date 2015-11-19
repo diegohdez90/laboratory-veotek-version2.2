@@ -1,0 +1,30 @@
+body{
+	background-image: url("../img/fondo.png");
+	background-position: center;
+	width: 100%;
+	font-family: 'Michroma', sans-serif;
+}
+
+.header, .register{
+	margin: 40px 0;
+}
+
+
+.register{
+	height: 500px;
+	background-image: url("../img/lente.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	position: relative;
+}
+
+.register form{
+	width: 400px;
+	margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,103 @@
+body{
+	background-color: rgb(0,172,200);
+}
+
+.header, .pedidos, .menu{
+	background-color: white;
+	margin: 2px 0;
+	border-radius: 25px;
+}
+
+.pedidos{
+	font-size: 14px;
+	height: 520px;
+}
+
+.menu{
+	height: 520px;
+}
+
+.col-xs-2{
+	width: 15%;
+	padding-right: 0;
+}
+
+table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td{
+	margin: 10px;
+	border-top: 1px solid white;
+}
+
+img{
+	width: 50%;
+	display:block;
+    margin:auto;
+}
+
+.header{
+	border-style: solid;
+	border-color: rgb(253,130,4);
+	border-width: 6px;
+}
+
+.pedidos{
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(255,255,255) rgb(253,130,4) rgb(253,130,4);
+	border-width: 6px;
+}
+
+.menu{
+/*	padding: 2px;*/
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(253,130,4) rgb(253,130,4) rgb(255,255,255);
+	border-width: 6px;
+}
+
+#submit{
+    background-color: rgb(253,130,4);
+    font-weight: 600;
+    width: 200px;
+    border-radius: 25px;
+    height: 45px;
+}
+
+.menu ul{
+	margin-left: -40px;
+}
+
+.form-control{
+	width: 75%;
+	color: rgb(253,130,4);
+	font-weight: 600;
+	font-size: 9px;
+	margin-right: 3px;
+}
+
+
+
+.od, .oi{
+	width: 9%;
+}
+
+textarea.form-control{
+	width: 50%;
+}
+
+.medida{
+	width: 12%;
+}
+
+label{
+	color: rgb(0,172,200);
+}
+
+.tec{
+	width: 23%;
+}
+
+.desc{
+	height: 30%;
+}
+
+select:option{
+  font-size: 8px;
+}

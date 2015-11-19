@@ -1,0 +1,73 @@
+body{
+	background-color: rgb(0,172,200);
+}
+
+.header, .articles, .menu, .footer{
+	background-color: white;
+	margin: 10px 0;
+	border-radius: 25px;
+}
+.menu{
+	padding: 20px;
+}
+
+.articles{
+	padding: 25px;
+}
+
+.menu li{
+	padding: 8px;
+}
+
+.articles, .menu{
+	height: 1300px;
+}
+
+.header, .footer{
+	border-style: solid;
+	border-color: rgb(253,130,4);
+	border-width: 6px;
+}
+
+.articles{
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(255,255,255) rgb(253,130,4) rgb(253,130,4);
+	border-width: 6px;
+}
+
+
+.menu{
+	padding: 20px;
+	border-style: solid;
+	border-color: rgb(253,130,4) rgb(253,130,4) rgb(253,130,4) rgb(255,255,255);
+	border-width: 6px;
+}
+
+.header img{
+	width: 50%;
+	display:block;
+    margin:auto;
+}
+
+table{
+	font-size: 10px;
+}
+span{
+	color: rgb(0,172,200);
+}
+
+a{
+	color: rgb(0,172,200);
+}
+
+a:link, a:visited, a:hover, a:active span{
+	color: rgb(0,172,200);
+}
+
+.glyphicon-print{
+  cursor: pointer;
+}
+
+table, td{
+	color: #666;
+}

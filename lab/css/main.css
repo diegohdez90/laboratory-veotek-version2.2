@@ -1,0 +1,23 @@
+table{
+	font-size: 15px;
+	color: rgb(0,172,200);
+}
+
+span{
+	color: rgb(0,172,200);
+}
+
+ul li{
+	list-style-type: none;
+}
+.glyphicon-menu-left, .glyphicon-menu-right{
+	color: rgb(0,172,200);
+}
+
+.select{
+	color: rgb(253,130,4);
+}
+
+th{
+	color: rgb(253,130,4);
+}
