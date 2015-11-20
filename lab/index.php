@@ -3,9 +3,11 @@
 
 echo '<html>
 <head>
+<title>P&aacute;gina de inicio</title>
 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/lab.css">
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 <link href="https://fonts.googleapis.com/css?family=Michroma" rel="stylesheet" type="text/css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="../js/bootstrap.min.js"></script>

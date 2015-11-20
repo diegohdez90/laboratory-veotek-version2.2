@@ -1,9 +1,11 @@
 <html>
 <head>
+<title>Informes por fecha</title>
 <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/lab.css">
 <link rel="stylesheet" type="text/css" href="css/main.css">
 <link rel="stylesheet" type="text/css" href="css/informes.css">
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 <link rel="stylesheet" href="css/articles-print.css" type="text/css" media="print" />
 <link href="https://fonts.googleapis.com/css?family=Michroma" rel="stylesheet" type="text/css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>

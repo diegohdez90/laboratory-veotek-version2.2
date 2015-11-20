@@ -1,7 +1,9 @@
 <html>
 <head>
+<title>Bienvenidos a Bisel</title>
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/main.css">
+<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
 <link href='https://fonts.googleapis.com/css?family=Michroma' rel='stylesheet' type='text/css'>
 </head>
 
