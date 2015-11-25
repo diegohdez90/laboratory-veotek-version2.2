@@ -33,7 +33,7 @@
 
 
 							} else {
-								header('Location:session.php');
+								header('Location:sesion.php');
 							}
 
 echo'		
